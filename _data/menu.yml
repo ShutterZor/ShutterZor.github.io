@@ -2,39 +2,21 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: 一些链接
     entries:
-      - title: Bilibili
+      - title: 我的B站主页
         url: https://space.bilibili.com/40545247?spm_id_from=333.1007.0.0
-      - title: github
+      - title: 我的GitHub主页
         url: https://github.com/ShutterZor
-      - title: 连享会
+      - title: 连享会主页
         url: https://www.lianxh.cn/
 
-  - title: all posts
+  - title: 相关内容
     post_list:
       limit: 5
       show_more: false
       show_more_text: ...More...
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
   - title: rss
     url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
