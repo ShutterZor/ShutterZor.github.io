@@ -4,16 +4,18 @@
 entries:
   - title: info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: Bilibili
+        url: https://space.bilibili.com/40545247?spm_id_from=333.1007.0.0
+      - title: github
+        url: https://github.com/ShutterZor
+      - title: 连享会
+        url: https://www.lianxh.cn/
 
   - title: all posts
     post_list:
       limit: 5
-      show_more: true
-      show_more_text: See archive...
+      show_more: false
+      show_more_text: ...More...
       show_more_url: archive.html
 
   - title: posts by category
