@@ -1,1 +1,0 @@
-# ShutterZor.github.io
