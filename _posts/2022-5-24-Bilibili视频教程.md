@@ -7,6 +7,18 @@ category: example
 
 &emsp;
 
+## Last Release
+
+- [【Stata】通过onetext做简易的文本分析_](https://www.bilibili.com/video/BV1Ue4y1R7aX/?vd_source=eabf2bfb3566fec2d8cf70a6545702f0)
+- [【Stata】正则表达提取CEO籍贯信息_](https://www.bilibili.com/video/BV1Tr4y1G7t7/?vd_source=eabf2bfb3566fec2d8cf70a6545702f0)
+
+- [【Stata】横向连乘与纵向连乘_](https://www.bilibili.com/video/BV1NT411572U/?vd_source=eabf2bfb3566fec2d8cf70a6545702f0)
+- [【Stata】计算余弦相似性（cosine similarity）](https://www.bilibili.com/video/BV1n3411G7yj/?vd_source=eabf2bfb3566fec2d8cf70a6545702f0)
+
+&emsp;
+
+## All Videos
+
 - [【Stata+Python】绘制一幅动态可视化地图！](https://www.bilibili.com/video/BV1C34y1D7hW/)
 - [【Stata】绘制一份完完整整的中国地图！](https://www.bilibili.com/video/BV1qb4y127jZ/)
 - [【五分钟搞定毕业论文】瞬间完成Csmar变量标签的批量替换，看完不会你打我！](https://www.bilibili.com/video/BV1e3411i7MK/)
