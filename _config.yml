@@ -2,7 +2,7 @@ title: Personal Blog # name of the site
 author: Shutter Zor # name of site's author
 email: Shutter_Z@outlook.com # email of site's author
 description: > # description of the site (multiple lines allowed)
-  My personal introduction and some tips for Stata and Python.
+  My "junk" papers and some tips for Stata and Python.
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
@@ -13,7 +13,7 @@ theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
 
 sass:
   style: :compressed
