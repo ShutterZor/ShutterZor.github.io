@@ -1,0 +1,14 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Bilibili Video"
+    url: /bilibili/    
+
+  - title: "WeChat Tweet"
+    url: /wechat/    
+        
+  - title: "Stata Package"
+    url: /stata/
+

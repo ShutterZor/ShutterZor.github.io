@@ -1,1 +1,1 @@
-# Personal Blog for Shutter Zor
+A Github Pages template 
