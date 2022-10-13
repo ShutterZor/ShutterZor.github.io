@@ -7,12 +7,13 @@ author_profile: true
 
 # Tweets
 
-These are a collection of tweets I have posted on my WeChat public website (OneStata).
+These are a collection of tweets I have posted on my Weixin Official Account (OneStata).
 
 ## Original Tweets
 
 ### About Stata
 
+- [Stata-文本相似度计算 (2022-10-04)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484025&idx=1&sn=2c4b6a9dbe874f43311e70cadcb3e974&chksm=fb1bc2eccc6c4bfae2384e10ad998853475ea36e43e83c6e7215110ad20ecb3ec3372b3b7e81#rd)
 - [Stata-技术生态位多指标计算实现 (2022-9-14)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247483982&idx=1&sn=411932a11c246f74fca825ee246493f8&chksm=fb1bc2dbcc6c4bcd8574862a4b5c36b4e0e0fa171c59d62278c4956541f7535a715e2fe3d659#rd)
 - [Stata-正则表达（regular expression）(2022-8-23)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247483963&idx=1&sn=0214d4fd5de68e93a258b74701e66096&chksm=fb1bc2aecc6c4bb85ba1e4e6037e7df55b814e4f0141c5ec019a1f497bd7ca9c65f220517cf5#rd)
 - [Stata-面板数据熵值法 (2022-8-22)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247483962&idx=1&sn=8f686bc5d2adfa2f5ba4c98643bfb191&chksm=fb1bc2afcc6c4bb93aceb36f605721d0319fc24e1620543994e2595be8c42dd175c7bff67fe2#rd)
@@ -26,6 +27,8 @@ These are a collection of tweets I have posted on my WeChat public website (OneS
 
 ### About Python
 
+- [Python-爬取邮政营业场所信息 (2022-10-12)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484046&idx=1&sn=3156bdc13fd3a7918628bb5eefccc12e&chksm=fb1bc21bcc6c4b0d18605a1a663de5314896324df070b9b5e784de15c4f2ec87f3364228a03e&token=1818767329&lang=zh_CN#rd)
+- [Python-爬取万维书刊的期刊信息 (2022-10-09)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484036&idx=1&sn=00b80d80200851a45ff36b491ed09cb5&chksm=fb1bc211cc6c4b076937231314ea8248a4091f4302a9c3dc7d06dc93b9b5a51e113096954e06#rd)
 - [Python-简易知网爬虫 (2022-9-27)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484013&idx=1&sn=bfbeb75faa1cad8f1baa3f46bcb44be8&chksm=fb1bc2f8cc6c4beef6e5f59e3dc2116aeeb775aee6175aa11354ef7990d66c7a791110e70666&token=743160848&lang=zh_CN#rd)
 - [Python-jieba文本分析简易教程 (2022-9-19)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484002&idx=1&sn=9abf02260ca1f7cd333312a9cdae1ca5&chksm=fb1bc2f7cc6c4be1cbb75158f84183a93129ff0856a1579c24c72b7e448b447e91723ee994ab&token=743160848&lang=zh_CN#rd)
 - [Python-列表的奇妙生成办法 (2022-9-16)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247483992&idx=1&sn=5dee5ff56d46e8a2ce678a80160e98f9&chksm=fb1bc2cdcc6c4bdb973f3906c03b1164d56b54549c17af5419fca0fe0658a5ad2dcc560bf07a&token=743160848&lang=zh_CN#rd)
