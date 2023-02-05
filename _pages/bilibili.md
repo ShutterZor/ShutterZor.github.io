@@ -3,22 +3,29 @@ layout: archive
 title: "Bilibili Video"
 permalink: /bilibili/
 author_profile: true
+
 ---
 
 # Videos
 
-These are a collection of videos I have posted on Bilibili (拿铁一定要加冰).
+These are a collection of videos I have posted on Bilibili ([拿铁一定要加冰](https://space.bilibili.com/40545247)).
 
 ## Last Release
 
-- [【Stata】通过onetext做简易的文本分析_](https://www.bilibili.com/video/BV1Ue4y1R7aX/?vd_source=eabf2bfb3566fec2d8cf70a6545702f0)
-- [【Stata】正则表达提取CEO籍贯信息_](https://www.bilibili.com/video/BV1Tr4y1G7t7/?vd_source=eabf2bfb3566fec2d8cf70a6545702f0)
+- [【Python】文本情绪指标综述及Python实现](https://www.bilibili.com/video/BV1fR4y1h7TU/)
+- [【Python】TF-IDF的算法实现及衍生应用](https://www.bilibili.com/video/BV1kG4y117Zj/)
+- [【代码公开】我的SCI绘图代码揭秘！](https://www.bilibili.com/video/BV1VP4y1i7Mv/)
 
-- [【Stata】横向连乘与纵向连乘_](https://www.bilibili.com/video/BV1NT411572U/?vd_source=eabf2bfb3566fec2d8cf70a6545702f0)
-- [【Stata】计算余弦相似性（cosine similarity）](https://www.bilibili.com/video/BV1n3411G7yj/?vd_source=eabf2bfb3566fec2d8cf70a6545702f0)
+- [【分享贴】双非硕士独作一区SCI的一些经验](https://www.bilibili.com/video/BV1De411A7ea/)
+- [【Stata】手动绘制调节效应图](https://www.bilibili.com/video/BV1HK411X7FC/)
 
 ## All Videos
 
+- [【Stata】通过onetext做简易的文本分析_](https://www.bilibili.com/video/BV1Ue4y1R7aX/)
+- [【Stata】正则表达提取CEO籍贯信息_](https://www.bilibili.com/video/BV1Tr4y1G7t7/)
+
+- [【Stata】横向连乘与纵向连乘_](https://www.bilibili.com/video/BV1NT411572U/)
+- [【Stata】计算余弦相似性（cosine similarity）](https://www.bilibili.com/video/BV1n3411G7yj/)
 - [【Stata+Python】绘制一幅动态可视化地图！](https://www.bilibili.com/video/BV1C34y1D7hW/)
 - [【Stata】绘制一份完完整整的中国地图！](https://www.bilibili.com/video/BV1qb4y127jZ/)
 - [【五分钟搞定毕业论文】瞬间完成Csmar变量标签的批量替换，看完不会你打我！](https://www.bilibili.com/video/BV1e3411i7MK/)
@@ -28,5 +35,8 @@ These are a collection of videos I have posted on Bilibili (拿铁一定要加�
 - [【五分钟搞定毕业论文】事件研究法的Stata实现（重制更新高清版！！！）](https://www.bilibili.com/video/BV1CX4y1w7bz/)
 - [【STATA】常见的循环报错及其处理方式](https://www.bilibili.com/video/BV1rL411p7ru/)
 - [【五分钟搞定毕业论文】事件研究法的stata实现！（含代码）](https://www.bilibili.com/video/BV1bA411V7Ph/)
-- [【OneClick】系列教程](https://www.bilibili.com/video/BV1ZT4y1m7Rs/?spm_id_from=333.788)
-- [【gsreg】系列教程](https://www.bilibili.com/video/BV1s44y1V78J/?spm_id_from=333.788)
+- [【OneClick】系列教程](https://www.bilibili.com/video/BV1ZT4y1m7Rs/)
+- [【gsreg】系列教程](https://www.bilibili.com/video/BV1s44y1V78J/)
+
+
+
