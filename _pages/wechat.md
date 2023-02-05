@@ -13,6 +13,9 @@ These are a collection of tweets I have posted on my Weixin Official Account (On
 
 ### About Stata
 
+- [Stata-我的一些绘图代码 (2022-12-11)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484137&idx=1&sn=8ca82d4ca528fea2c59fd5e3d7d38272&chksm=fb1bc27ccc6c4b6ac4e59eec0b1ccf8e70df7f54554437eae97b7ef75b0f78f6a577ccabc993#rd)
+- [Stata-手动绘制调节效应图 (2022-12-01)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484128&idx=1&sn=e8dfb81bbd4a675b39fb77094630a7eb&chksm=fb1bc275cc6c4b6346b55f267edc0b0f0fd310c34bbec2e54b62f7198c8a85632bebbbae5e4c#rd)
+- [Stata-向Excel追加子表 (2022-10-21)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484055&idx=1&sn=0ee1ce4be6910933ab08c85b18b38e4e&chksm=fb1bc202cc6c4b1401c35dec2306ee147cde967aa12ea7dc530bbc20c534f7093a5c06cd9175#rd)
 - [Stata-文本相似度计算 (2022-10-04)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484025&idx=1&sn=2c4b6a9dbe874f43311e70cadcb3e974&chksm=fb1bc2eccc6c4bfae2384e10ad998853475ea36e43e83c6e7215110ad20ecb3ec3372b3b7e81#rd)
 - [Stata-技术生态位多指标计算实现 (2022-9-14)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247483982&idx=1&sn=411932a11c246f74fca825ee246493f8&chksm=fb1bc2dbcc6c4bcd8574862a4b5c36b4e0e0fa171c59d62278c4956541f7535a715e2fe3d659#rd)
 - [Stata-正则表达（regular expression）(2022-8-23)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247483963&idx=1&sn=0214d4fd5de68e93a258b74701e66096&chksm=fb1bc2aecc6c4bb85ba1e4e6037e7df55b814e4f0141c5ec019a1f497bd7ca9c65f220517cf5#rd)
@@ -27,6 +30,11 @@ These are a collection of tweets I have posted on my Weixin Official Account (On
 
 ### About Python
 
+- [【NLP】Word2Vec文本相似词扩充 (2023-01-27)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484187&idx=1&sn=fb75d4169ceeb1b776856f0f17f552f5&chksm=fb1bc38ecc6c4a985e8ddf0e5c0195d95ead2504eb11d597edbb892809cfa068945bb1b72526#rd)
+- [【NLP】文本相似性指标综述及Python实现 (2023-01-18)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484180&idx=1&sn=23c6e1c6fbc0ab1bfce42218c41d3a86&chksm=fb1bc381cc6c4a970b8e7b91c280bd7c7b6d8c98ca9af8711ebd6f6c45ebfb7acf7dbe9fc40a#rd)
+- [【NLP】文本情绪指标综述及Python实现 (2023-01-12)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484168&idx=1&sn=36f790938f65da6f92a78d84d3a07100&chksm=fb1bc39dcc6c4a8b42c561ac9319d80bf4c007880283c8126e7f85b242d0c85b4fecf1676b9e#rd)
+- [【Python】文本向量化之词集与词袋模型 (2022-01-03)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484154&idx=1&sn=10ba6f393d2e89ec62f7b1c8f4750eeb&chksm=fb1bc26fcc6c4b799557d1649cae46d37bfe6c013799ede0ff9e670991c0749fea0f802a9ada#rd)
+- [【Python】TF-IDF的算法实现 (2022-12-28)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484143&idx=1&sn=6a6994c31b56961ba4221620a3d08bfd&chksm=fb1bc27acc6c4b6c6d39027a39cfec1180e8f725f4df5e413b3e23d5c3aa96708bedb5fb1d6c#rd)
 - [Python-爬取邮政营业场所信息 (2022-10-12)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484046&idx=1&sn=3156bdc13fd3a7918628bb5eefccc12e&chksm=fb1bc21bcc6c4b0d18605a1a663de5314896324df070b9b5e784de15c4f2ec87f3364228a03e&token=1818767329&lang=zh_CN#rd)
 - [Python-爬取万维书刊的期刊信息 (2022-10-09)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484036&idx=1&sn=00b80d80200851a45ff36b491ed09cb5&chksm=fb1bc211cc6c4b076937231314ea8248a4091f4302a9c3dc7d06dc93b9b5a51e113096954e06#rd)
 - [Python-简易知网爬虫 (2022-9-27)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484013&idx=1&sn=bfbeb75faa1cad8f1baa3f46bcb44be8&chksm=fb1bc2f8cc6c4beef6e5f59e3dc2116aeeb775aee6175aa11354ef7990d66c7a791110e70666&token=743160848&lang=zh_CN#rd)
@@ -55,3 +63,10 @@ These are a collection of tweets I have posted on my Weixin Official Account (On
 - [Stata：控制变量组合的筛选-tuples](https://www.lianxh.cn/news/839f31d03cdf4.html)
 - [如何搭建个人主页-GitHub / Gitee](https://www.lianxh.cn/news/535f2433e8140.html)
 - [Stata：空间计量之用-spmap-绘制地图](https://www.lianxh.cn/news/ccd0bfde56bda.html)
+
+## Others
+
+- [ChatGPT-对回归结果不显著的几点建议 (2023-02-03)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484202&idx=1&sn=e9abbb3e932d9a2ba5759ff20e5bcdfe&chksm=fb1bc3bfcc6c4aa9919b78da3ba8a45c83feae833bd4d0860b2c41f8bb22b2dc1f00d97351e4#rd)
+- [【NLP】从向量空间模型到词嵌入模型 (2023-02-01)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484194&idx=1&sn=714a65f693b1b6fe61aa28f3e021ee46&chksm=fb1bc3b7cc6c4aa1a5772d94d2e41ba892a6e7e6152f0c1483605e072f0fa9f12c550ba4c234#rd)
+- [解释变量和为1时，OLS的简单推导——解释变量系数的相反变化与显著性的不变特征。 (2022-11-16)](https://mp.weixin.qq.com/s?__biz=MzU0MjQ0ODEyMg==&mid=2247484077&idx=1&sn=cbeae53267127f77d523d4951c8b8598&chksm=fb1bc238cc6c4b2efa10618a128e31386320b40e50be33f254847d957d76649c80ef590033b7#rd)
+
