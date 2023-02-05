@@ -35,8 +35,8 @@ author_profile: true
 
 ## Working Paper
 
-- Research on the accumulation effect model of technological innovation in textile industry based on chaos theory[^8][--PDF--](https://arxiv.org/abs/2204.08340)
-- State capital involvement, managerial sentiment and firm innovation performance Evidence from China[^9][--PDF--](https://arxiv.org/abs/2204.04860)
+- Research on the accumulation effect model of technological innovation in textile industry based on chaos theory. [--PDF--](https://arxiv.org/abs/2204.08340)
+- State capital involvement, managerial sentiment and firm innovation performance Evidence from China. [--PDF--](https://arxiv.org/abs/2204.04860)
 
 
 
