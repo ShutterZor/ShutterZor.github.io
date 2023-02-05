@@ -7,19 +7,38 @@ author_profile: true
 
 # Packages
 
-Here is the Stata package I released.
+Here is the Stata package that I have released.
 
 ## OneClick
 
 - Description: oneclick[^1] —— Helps you to quickly screen for control variables that keep the explanatory variables at a certain level of significance.
+
 - Install: *ssc install oneclick* from Stata or click [here](https://github.com/ShutterZor/StataOneClick) to get the source codes.
+
+- citation:
+
+  ```latex
+  @article{zor2022oneclick,
+    title={ONECLICK: Stata module to screen for control variables that keep the explanatory variables at a certain level of significance},
+    author={Zor, Shutter},
+    year={2022},
+    publisher={Boston College Department of Economics}
+  }
+  ```
 
 ## OneText
 
 - Description: onetext[^2] —— Help you do some simple Chinese text analysis.
-- Install:  *ssc install onetext* from Stata
 
-## Citation
+- Install:  *ssc install onetext* from Stata.
 
-[^1]: *Zor, Shutter* (2022).`ONECLICK`: Stata module to screen for control variables that keep the explanatory variables at a certain level of significance. **Boston College Department of Economics**.
-[^2]: *Zor, Shutter* (2022).`ONETEXT`: Stata module to perform simple Chinese text analysis. **Boston College Department of Economics**.
+- cication:
+
+  ```latex
+  @article{zor2022onetext,
+    title={ONETEXT: Stata module to perform simple Chinese text analysis},
+    author={Zor, Shutter},
+    year={2022},
+    publisher={Boston College Department of Economics}
+  }
+  ```
