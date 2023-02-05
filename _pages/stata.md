@@ -11,7 +11,7 @@ Here is the Stata package that I have released.
 
 ## OneClick
 
-- Description: oneclick[^1] —— Helps you to quickly screen for control variables that keep the explanatory variables at a certain level of significance.
+- Description: oneclick —— Helps you to quickly screen for control variables that keep the explanatory variables at a certain level of significance.
 
 - Install: *ssc install oneclick* from Stata or click [here](https://github.com/ShutterZor/StataOneClick) to get the source codes.
 
@@ -28,7 +28,7 @@ Here is the Stata package that I have released.
 
 ## OneText
 
-- Description: onetext[^2] —— Help you do some simple Chinese text analysis.
+- Description: onetext —— Help you do some simple Chinese text analysis.
 
 - Install:  *ssc install onetext* from Stata.
 
