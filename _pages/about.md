@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Abstract"
+title: "Shutter Zor | 左祥太"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,7 +19,7 @@ This is my personal blog, which is a branch of [academicpages]([academicpages/ac
 
     ​	 <img src="/images/QRcode.png" alt="WeChat QR code" style="zoom:25%;" />
 
-If you have any problems using my code, don't be afraid to send me an email anytime. My email address is in the sidebar on the left, and of course I'm highlighting my email address here: Shutter_Z@outlook.com.
+If you have any problems using my code, don't be afraid to send me an email anytime. My email address is in the sidebar on the left, and of course I'm highlighting my email address here: [Shutter_Z@outlook.com](mailto:Shutter_Z@outlook.com).
 
 Annex
 ======
