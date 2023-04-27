@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Personal Blog"
+title                    : "Shutter Zor"
 title_separator          : "-"
 name                     : &name "Shutter Zor"
-description              : &description "This is shutter's personal blog, which focuses on sharing Stata and Python."
+description              : &description "Here is Zor's personal blog."
 url                      : https://shutterzor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShutterZor/ShutterZor.github.io"
@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "I am passionate about open-source sharing of Stata and Python methods, and pursuing a Master's degree in Management."
   location         : "Wuhan, Hubei Province, China"
-  employer         : "School of Accy., Wuhan Textile Univ."
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=shutter+zor"
-  googlescholar    : "https://scholar.google.com/citations?user=IWnqLLIAAAAJ&hl=zh-CN"
+  employer         : "School of Management, Xiamen University"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=IWnqLLIAAAAJ"
   email            : "Shutter_Z@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
