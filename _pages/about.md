@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shutter Zor | 左祥太"
+title: "Shutter Zor"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
