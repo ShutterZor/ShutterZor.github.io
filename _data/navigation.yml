@@ -2,7 +2,10 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Educations"
+    url: /educations/
+    
   - title: "Bilibili Video"
     url: /bilibili/    
 
