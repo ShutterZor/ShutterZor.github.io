@@ -5,8 +5,6 @@ permalink: /stata/
 author_profile: true
 ---
 
-# Packages
-
 Here is the Stata package that I have released.
 
 ## OneClick
