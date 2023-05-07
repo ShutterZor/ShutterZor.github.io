@@ -9,15 +9,19 @@ author_profile: true
 
 ## Forthcoming
 
-[1] 罗恺,左祥太.专利丛林、专利资产与企业市场价值研究[J].科研管理（**CSSCI**、**自科A**）
+[1] 罗恺,左祥太.专利丛林、专利资产与企业市场价值研究[J].科研管理（2022年8月16录用）
 
 ## Online
 
 ### Representative works
 
-[1] Zor Shutter. Conservation or revolution? The sustainable transition of textile and apparel firms under the environmental regulation: Evidence from China[J]. Journal of Cleaner Production,2023,382. (**JCR Q1**、**中科院一区TOP**)
+[1] Zor, S. (2023). Conservation or revolution? The sustainable transition of textile and apparel firms under the environmental regulation: Evidence from China. *Journal of Cleaner Production*, 382, 135339. [--PDF Subscription--](https://www.sciencedirect.com/science/article/abs/pii/S0959652622049137)
 
-[2] Luo Kai,Zor Shutter. China's non-ferrous metal recycling technology convergence and driving factors: A quadratic assignment procedure analysis based on patent collaboration-based network structural hole.[J]. PloS one,2022,17(8).（ **JCR Q2** ）
+[2] Luo, K., & Zor, S. (2022). China’s non-ferrous metal recycling technology convergence and driving factors: A quadratic assignment procedure analysis based on patent collaboration-based network structural hole. *Plos one*, 17(8), e0271694. [--PDF OA--](https://www.cell.com/heliyon/pdf/S2405-8440(23)01565-7.pdf)
+
+[3] Luo, K., & Zor, S. (2023). How does social network in patent provide changes in the Chinese manufacturing firm market value?. *Heliyon*, 9(3). [--PDF OA--](https://www.cell.com/heliyon/pdf/S2405-8440(23)01565-7.pdf)
+
+[4] Zor, S., Chen, J., Ailimujiang, J., & Wang, F. (2023). Follow Suit: Imitative governance, resource inclination, and regional innovation efficiency. *Review of Economic Assessment*, 2(1), 25-39. [--PDF OA--](http://anser.press/index.php/rea/article/view/153/278)
 
 ### Other works
 
@@ -35,9 +39,9 @@ author_profile: true
 
 ## Working Paper
 
-[1] Research on the accumulation effect model of technological innovation in textile industry based on chaos theory. [--arXiv--](https://arxiv.org/abs/2204.08340)
+[1] Research on the accumulation effect model of technological innovation in textile industry based on chaos theory. [--arXiv PDF--](https://arxiv.org/abs/2204.08340)
 
-[2] State capital involvement, managerial sentiment and firm innovation performance Evidence from China. [--arXiv--](https://arxiv.org/abs/2204.04860)
+[2] State capital involvement, managerial sentiment and firm innovation performance Evidence from China. [--arXiv PDF--](https://arxiv.org/abs/2204.04860)
 
 
 
