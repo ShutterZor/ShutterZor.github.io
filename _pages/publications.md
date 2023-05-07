@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publication Sets
-
 ## Forthcoming
 
 [1] 罗恺,左祥太.专利丛林、专利资产与企业市场价值研究[J].科研管理（2022年8月16录用）
