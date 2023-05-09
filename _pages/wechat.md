@@ -5,7 +5,7 @@ permalink: /wechat/
 author_profile: true
 ---
 
-These are a collection of tweets I have posted on my Weixin Official Account (OneStata).
+Some tweets I have posted on my Weixin Official Account (OneStata).
 
 <img src="../images/QRcode.png" alt="WeChat QR code" style="zoom:25%;" />
 
