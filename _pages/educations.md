@@ -16,3 +16,4 @@ author_profile: true
 ## Doctor's Degree - 博士学位（暂未取得）
 
 2023.9-2027.6（预计） 厦门大学，管理学院，会计学专业（Accounting, School of Management, Xiamen University）
+
