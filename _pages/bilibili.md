@@ -5,7 +5,7 @@ permalink: /bilibili/
 author_profile: true
 ---
 
-These are a collection of videos I have posted on Bilibili ([拿铁一定要加冰](https://space.bilibili.com/40545247)).
+Some videos I have posted on Bilibili: [拿铁一定要加冰](https://space.bilibili.com/40545247).
 
 ## Recommendations
 
