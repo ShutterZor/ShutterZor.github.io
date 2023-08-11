@@ -1,1 +1,1 @@
-A Github Pages template 
+A Github Pages template for Zor's personal blog.

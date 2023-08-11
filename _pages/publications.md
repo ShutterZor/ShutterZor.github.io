@@ -15,11 +15,13 @@ author_profile: true
 
 [1] Zor, S. (2023). Conservation or revolution? The sustainable transition of textile and apparel firms under the environmental regulation: Evidence from China. *Journal of Cleaner Production*, 382, 135339. [--PDF Subscription--](https://www.sciencedirect.com/science/article/abs/pii/S0959652622049137)
 
-[2] Luo, K., & Zor, S. (2022). China’s non-ferrous metal recycling technology convergence and driving factors: A quadratic assignment procedure analysis based on patent collaboration-based network structural hole. *Plos one*, 17(8), e0271694. [--PDF OA--](https://www.cell.com/heliyon/pdf/S2405-8440(23)01565-7.pdf)
+[2] Luo, K., & Zor, S. (2023). Angel or devil? a study of the threshold effect of patent strategy on the relationship between patent thicket and corporate market value. Technology Analysis & Strategic Management, 1-17.  [--PDF Subscription--](https://www.tandfonline.com/doi/abs/10.1080/09537325.2023.2209220)
 
-[3] Luo, K., & Zor, S. (2023). How does social network in patent provide changes in the Chinese manufacturing firm market value?. *Heliyon*, 9(3). [--PDF OA--](https://www.cell.com/heliyon/pdf/S2405-8440(23)01565-7.pdf)
+[3] Luo, K., & Zor, S. (2022). China’s non-ferrous metal recycling technology convergence and driving factors: A quadratic assignment procedure analysis based on patent collaboration-based network structural hole. *Plos one*, 17(8), e0271694. [--PDF OA--](https://www.cell.com/heliyon/pdf/S2405-8440(23)01565-7.pdf)
 
-[4] Zor, S., Chen, J., Ailimujiang, J., & Wang, F. (2023). Follow Suit: Imitative governance, resource inclination, and regional innovation efficiency. *Review of Economic Assessment*, 2(1), 25-39. [--PDF OA--](http://anser.press/index.php/rea/article/view/153/278)
+[4] Luo, K., & Zor, S. (2023). How does social network in patent provide changes in the Chinese manufacturing firm market value?. *Heliyon*, 9(3). [--PDF OA--](https://www.cell.com/heliyon/pdf/S2405-8440(23)01565-7.pdf)
+
+[5] Zor, S., Chen, J., Ailimujiang, J., & Wang, F. (2023). Follow Suit: Imitative governance, resource inclination, and regional innovation efficiency. *Review of Economic Assessment*, 2(1), 25-39. [--PDF OA--](http://anser.press/index.php/rea/article/view/153/278)
 
 ### Other works
 
@@ -37,9 +39,11 @@ author_profile: true
 
 ## Working Paper
 
-[1] Research on the accumulation effect model of technological innovation in textile industry based on chaos theory. [--arXiv PDF--](https://arxiv.org/abs/2204.08340)
+[1] Comparing with Python: Text Analysis in Stata. [--arXiv PDF--](https://arxiv.org/abs/2307.10480)
 
-[2] State capital involvement, managerial sentiment and firm innovation performance Evidence from China. [--arXiv PDF--](https://arxiv.org/abs/2204.04860)
+[2] Research on the accumulation effect model of technological innovation in textile industry based on chaos theory. [--arXiv PDF--](https://arxiv.org/abs/2204.08340)
+
+[3] State capital involvement, managerial sentiment and firm innovation performance Evidence from China. [--arXiv PDF--](https://arxiv.org/abs/2204.04860)
 
 
 
