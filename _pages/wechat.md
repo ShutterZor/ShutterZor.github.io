@@ -7,7 +7,7 @@ author_profile: true
 
 Some tweets I have posted on my Weixin Official Account (OneStata).
 
-<img src="../images/QRcode.png" alt="WeChat QR code" style="zoom:25%;" />
+<img src="../images/QRcode.png" alt="WeChat QR code" style="zoom:80%;" />
 
 ## About Stata
 

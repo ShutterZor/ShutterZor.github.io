@@ -19,10 +19,10 @@ This is my personal blog, which is a branch of [academicpages](https://github.co
 
   - Or you can scan the QR code below with WeChat.
 
-    ​	 <img src="/images/QRcode.png" alt="WeChat QR code" style="zoom:25%;" />
+    ​	 <img src="/images/QRcode.png" alt="WeChat QR code" style="zoom:100%;" />
 
 If you have any problems using my code, don't be afraid to send me an email anytime. My email address is in the sidebar on the left, and of course I'm highlighting my email address here: [Shutter_Z@outlook.com](mailto:Shutter_Z@outlook.com).
 
-Annex
+Others
 ======
 Limited by my technical level, I wasn't able to maximize the performance of this blog, so I only kept some basic features that I needed.
