@@ -40,3 +40,20 @@ Here is the Stata package that I have released.
     publisher={Boston College Department of Economics}
   }
   ```
+
+## EconSig
+
+- Description: econsig —— Quickly calculate six types of economic significance to simplify your empirical process.
+
+- Install:  *ssc install econsig* from Stata.
+
+- cication:
+
+  ```latex
+  @article{zor2024econsig,
+    title={ECONSIG: Stata module to quickly calculate six types of economic significance to simplify your empirical process},
+    author={Zor, Shutter},
+    year={2024},
+    publisher={Boston College Department of Economics}
+  }
+  ```
