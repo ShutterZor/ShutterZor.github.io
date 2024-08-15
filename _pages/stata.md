@@ -7,7 +7,7 @@ author_profile: true
 
 Here is the Stata package that I have released.
 
-## OneClick
+## oneclick
 
 - Description: oneclick —— Helps you to quickly screen for control variables that keep the explanatory variables at a certain level of significance.
 
@@ -24,7 +24,7 @@ Here is the Stata package that I have released.
   }
   ```
 
-## OneText
+## onetext
 
 - Description: onetext —— Help you do some simple Chinese text analysis.
 
@@ -41,7 +41,7 @@ Here is the Stata package that I have released.
   }
   ```
 
-## EconSig
+## econsig
 
 - Description: econsig —— Quickly calculate six types of economic significance to simplify your empirical process.
 
@@ -52,6 +52,23 @@ Here is the Stata package that I have released.
   ```latex
   @article{zor2024econsig,
     title={ECONSIG: Stata module to quickly calculate six types of economic significance to simplify your empirical process},
+    author={Zor, Shutter},
+    year={2024},
+    publisher={Boston College Department of Economics}
+  }
+  ```
+
+## wordcloud
+
+- Description: wordcloud —— Program for drawing word cloud figure based on echarts developed by Baidu.
+
+- Install:  *ssc install wordcloud* from Stata.
+
+- cication:
+
+  ```latex
+  @article{zor2024wordcloud,
+    title={WORDCLOUD: Stata module for drawing word cloud figure based on echarts developed by Baidu},
     author={Zor, Shutter},
     year={2024},
     publisher={Boston College Department of Economics}
