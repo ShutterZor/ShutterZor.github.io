@@ -75,7 +75,7 @@ Here is the Stata package that I have released.
   }
   ```
 
-  ## modplot
+## modplot
 
 - Description: wordcloud —— Stata module for plotting graphs of moderating effects.
 
