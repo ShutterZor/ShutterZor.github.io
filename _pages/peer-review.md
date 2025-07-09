@@ -9,13 +9,21 @@ author_profile: true
 
 *BMC Public Health*
 
+*Cleaner Engineering and Technology*
+
 *Corporate Social Responsibility and Environmental Management*
 
 *Economic Change and Restructuring*
 
+*Energy Sources, Part B: Economics, Planning, and Policy*
+
+*Environmental Engineering and Management Journal*
+
 *Environmental Science and Pollution Research*
 
 *Finance Research Letters*
+
+*Heliyon*
 
 *Humanities and Social Sciences Communications*
 
@@ -23,7 +31,13 @@ author_profile: true
 
 *Journal of Cleaner Production*
 
+*Journal of Data, Information and Management*
+
 *Journal of Energy Storage*
+
+*Journal of Environmental Management*
+
+*Journal of Infrastructure, Policy and Development*
 
 *Mineral Economics*
 
