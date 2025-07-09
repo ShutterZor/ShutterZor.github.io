@@ -74,3 +74,22 @@ Here is the Stata package that I have released.
     publisher={Boston College Department of Economics}
   }
   ```
+
+  ## modplot
+
+- Description: wordcloud —— Stata module for plotting graphs of moderating effects.
+
+- Install:  *ssc install modplot* from Stata.
+
+- cication:
+
+  ```latex
+  @article{zor2025modplt,
+    title={MODPLOT: Stata module for plotting graphs of moderating effects},
+    author={Zor, Shutter},
+    year={2025},
+    publisher={Boston College Department of Economics}
+  }
+  ```
+
+  
