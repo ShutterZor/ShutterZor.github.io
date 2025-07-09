@@ -19,9 +19,11 @@ Nan.
 
 [3] Luo, K., & **Zor, S**. (2023). Angel or devil? a study of the threshold effect of patent strategy on the relationship between patent thicket and corporate market value. Technology Analysis & Strategic Management, 1-17.  [--PDF Subscription--](https://www.tandfonline.com/doi/abs/10.1080/09537325.2023.2209220)
 
-[4] Song, J., **Zor, S**., Chen, D., Yan, T., & Li, B. (2024). The effect of firm‐level economic policy uncertainty on labor share: Empirical evidence from China. *Bulletin of Economic Research*. [--PDF Subscription--](https://onlinelibrary.wiley.com/doi/abs/10.1111/boer.12462)
+[4] Song, J., **Zor, S**., Chen, D., Yan, T., & Li, B. (2024). The effect of firm‐level economic policy uncertainty on labor share: Empirical evidence from China. *Bulletin of Economic Research*, 76(4), 976-993. [--PDF Subscription--](https://onlinelibrary.wiley.com/doi/abs/10.1111/boer.12462)
 
 [5] **Zor, S**. (2024). Transition in the mist: firm-level uncertainty perception and imitative innovation. *International Journal of Innovation Science*. [--PDF Subscription--](https://www.emerald.com/insight/content/doi/10.1108/IJIS-06-2023-0141/full/html)
+
+[6] **Zor, S**. (2025). Using pre-trained language model to assess environmental protection policy stability and its impact on green innovation: Evidence from listed companies in heavily polluting industries. *Journal of Cleaner Production*, 505, 145493.. [--PDF Subscription--](https://www.sciencedirect.com/science/article/abs/pii/S0959652625008431)
 
 ### Other works
 
